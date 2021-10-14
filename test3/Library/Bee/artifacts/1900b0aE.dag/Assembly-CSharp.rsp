@@ -331,6 +331,8 @@
 "Assets/CSharp Shit/PathCreator/Examples/Scripts/PathSceneTool.cs"
 "Assets/CSharp Shit/PathCreator/Examples/Scripts/PathSpawner.cs"
 "Assets/CSharp Shit/PathCreator/Examples/Scripts/RoadMeshCreator.cs"
+"Assets/Tutorial Folder/GridBehavior.cs"
+"Assets/Tutorial Folder/GridStat.cs"
 -langversion:8.0
 
 /deterministic
